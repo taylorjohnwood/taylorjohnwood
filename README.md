@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taylorjohnwood
-- 👀 I’m interested in C++, Data Science, Microservices, DevOPs and Maths
-- 🌱 I’m currently learning Micronaut
+- 👀 I’m interested in Software Engineering, DevOps, Maths and Data Science
 - 📫 How to reach me
   - Email me at taylorjohnwood@gmail.com
   - Add me on [LinkedIn](https://www.linkedin.com/in/taylor-wood-developer/)
